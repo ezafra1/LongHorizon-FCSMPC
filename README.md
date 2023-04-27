@@ -1,6 +1,6 @@
 # LongHorizon-FCSMPC
 Basic MATLAB codes for different search strategies for Long Horizon FCS-MPC.
-These are support files for paper: Long Prediction Horizon FCS-MPC for Power Converters and Drives 
+These are support files for paper: "Long Prediction Horizon FCS-MPC for Power Converters and Drives"
 in journal: IEEE Open Journal of the Industrial Electronics Society.
 
 
